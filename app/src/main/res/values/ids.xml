@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="scan_button" type="id" />
+    <item name="allergy_spinner" type="id" />
+    <item name="btn_recipes" type="id" />
+    <item name="btn_scan" type="id" />
+
+    <item name="recycler_view_favorites" type="id" />
+    <item name="store_name" type="id" />
+    <item name="favorite_button" type="id" />
+    <item name="button_recetas" type="id" />
+    <item name="user_text_vista" type="id" />
+    <item name="pantalla_scanear" type="id" />
+    <item name="pantalla_favoritos" type="id" />
+    <item name="pantalla_recetas" type="id" />
+    <item name="nombre_tienda" type="id" />
+
+
+    <item name="store" type="id" />
+    <item name="harmfulIngredients" type="id" />
+    <item name="ingredients" type="id" />
+    <item name="productName" type="id" />
+    <item name="title_listafav" type="id" />
+
+
+    <item name="allergiesContainer" type="id"/>
+    <item name="recipeContainer" type="id"/>
+    <item name="webView" type="id"/>
+
+    <item name="title_alegias" type="id"/>
+
+
+</resources>
